@@ -10,8 +10,8 @@ from ta.trend import EMAIndicator
 from ta.volatility import BollingerBands
 
 # Telegram Config
-TELEGRAM_API_URL = "https://api.telegram.org/bot7950917429:AAFqWid_MpXMOCKUL0h9v6zRqKgvgEQCyXY/sendMessage"
-CHAT_ID = "809952021"
+TELEGRAM_API_URL = "Your telegram API URL here"
+CHAT_ID = "Your chat ID here"
 
 # Signals memory
 signal_memory = {}
